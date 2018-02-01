@@ -32,7 +32,7 @@ namespace Calculator.Test.Unit
         public void pow_pow2And4_Returns16()
         {
             var uut = new Calculator();
-            Assert.That(uut.Power(2, 4), Is.EqualTo(16));
+            Assert.That(uut.Power(2, -0.4), Is.EqualTo(0.758));
         }
 
         [Test]

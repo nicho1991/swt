@@ -21,7 +21,8 @@ namespace Calculator
 
         public double Power(double x, double exp)
         {
-            return Math.Pow(x, exp);
+            double roundup = Math.Pow(x, exp);
+            return Math.Round(roundup, 3);
         }
 
         public double Divide(double dividend, double divisor)
