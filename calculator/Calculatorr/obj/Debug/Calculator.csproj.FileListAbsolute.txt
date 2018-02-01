@@ -1,0 +1,5 @@
+D:\git\4.semester\swt\calculator\Calculatorr\bin\Debug\Calculatorr.dll
+D:\git\4.semester\swt\calculator\Calculatorr\bin\Debug\Calculatorr.pdb
+D:\git\4.semester\swt\calculator\Calculatorr\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\git\4.semester\swt\calculator\Calculatorr\obj\Debug\Calculatorr.dll
+D:\git\4.semester\swt\calculator\Calculatorr\obj\Debug\Calculatorr.pdb

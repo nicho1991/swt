@@ -1,0 +1,8 @@
+D:\git\4.semester\swt\calculator\calculatorProgram\bin\Debug\calculatorProgram.exe.config
+D:\git\4.semester\swt\calculator\calculatorProgram\bin\Debug\calculatorProgram.exe
+D:\git\4.semester\swt\calculator\calculatorProgram\bin\Debug\calculatorProgram.pdb
+D:\git\4.semester\swt\calculator\calculatorProgram\bin\Debug\Calculatorr.dll
+D:\git\4.semester\swt\calculator\calculatorProgram\bin\Debug\Calculatorr.pdb
+D:\git\4.semester\swt\calculator\calculatorProgram\obj\Debug\calculatorProgram.exe
+D:\git\4.semester\swt\calculator\calculatorProgram\obj\Debug\calculatorProgram.pdb
+D:\git\4.semester\swt\calculator\calculatorProgram\obj\Debug\calculatorProgram.csprojResolveAssemblyReference.cache
