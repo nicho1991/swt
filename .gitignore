@@ -263,3 +263,5 @@ calculator/calculatorProgram/bin/Debug/calculatorProgram.exe
 *.exe
 *.pdb
 calculator/.vs/calculator/v15/.suo
+*.cache
+calculator/.vs/calculator/v15/.suo
