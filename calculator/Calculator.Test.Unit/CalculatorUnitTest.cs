@@ -40,6 +40,7 @@ namespace Calculator.Test.Unit
         {
             var uut = new Calculator();
             Assert.That(uut.Subtract(4, 2), Is.EqualTo(2));
+           
         }
 
         [Test]
