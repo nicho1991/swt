@@ -40,5 +40,13 @@ namespace Calculator.Test.Unit
             var uut = new Calculator();
             Assert.That(uut.Subtract(4, 2), Is.EqualTo(2));
         }
+
+        [Test]
+        public void div_div4by2_Returns2()
+        {
+            var uut = new Calculator();
+            Assert.That(uut.Divide(4, 2), Is.EqualTo(2));
+        }
+
     }
 }
