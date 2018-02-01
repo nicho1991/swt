@@ -23,6 +23,12 @@ namespace Calculator
         {
             return Math.Pow(x, exp);
         }
-        public double squareRoot 
+
+        public double Divide(double dividend, double divisor)
+        {
+            if (divisor == 0)
+                throw new DivideByZeroException();
+            return dividend / divisor;
+        }
     }
 }
