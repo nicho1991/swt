@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System;
+using NUnit.Framework;
 
 namespace Calculator.Test.Unit
 {
@@ -46,6 +47,13 @@ namespace Calculator.Test.Unit
         {
             var uut = new Calculator();
             Assert.That(uut.Divide(4, 2), Is.EqualTo(2));
+        }
+
+        [Test]
+        public void div_div4by0_error()
+        {
+            var uut = new Calculator();
+            Assert.Throws<DivideByZeroException>(new TestDelegate(() => uut.Divide(4,0)));
         }
 
     }
