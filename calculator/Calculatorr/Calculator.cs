@@ -23,5 +23,6 @@ namespace Calculator
         {
             return Math.Pow(x, exp);
         }
+        public double squareRoot 
     }
 }
