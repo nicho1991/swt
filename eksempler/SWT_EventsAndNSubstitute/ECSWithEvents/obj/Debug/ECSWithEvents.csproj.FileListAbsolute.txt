@@ -1,0 +1,6 @@
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\bin\Debug\ECSWithEvents.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\bin\Debug\ECSWithEvents.pdb
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\obj\Debug\ECSWithEvents.csprojResolveAssemblyReference.cache
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\obj\Debug\ECSWithEvents.csproj.CoreCompileInputs.cache
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\obj\Debug\ECSWithEvents.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents\obj\Debug\ECSWithEvents.pdb

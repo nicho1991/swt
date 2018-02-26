@@ -1,0 +1,12 @@
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\ECSWithEvents.Test.Unit.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\ECSWithEvents.Test.Unit.pdb
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\ECSWithEvents.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\NSubstitute.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\nunit.framework.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\ECSWithEvents.pdb
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\NSubstitute.xml
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\bin\Debug\nunit.framework.xml
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\obj\Debug\ECSWithEvents.Test.Unit.csprojResolveAssemblyReference.cache
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\obj\Debug\ECSWithEvents.Test.Unit.csproj.CoreCompileInputs.cache
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\obj\Debug\ECSWithEvents.Test.Unit.dll
+C:\# OFFLINE WORK\Courses\4\I4SWT\LECTURES\06 - Isolation Frameworks\ECSLiveCode\ECSWithEvents.Test.Unit\obj\Debug\ECSWithEvents.Test.Unit.pdb
